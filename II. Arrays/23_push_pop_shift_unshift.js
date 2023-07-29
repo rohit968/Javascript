@@ -21,3 +21,7 @@ console.log(result); // Also returns the popped element
 result = fruits.unshift('Juice');
 console.log(fruits);
 console.log(result); // Returns the length of array
+
+
+//Important
+//1. push and pop operations are faster than shift and unshift operations.
